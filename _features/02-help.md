@@ -4,7 +4,6 @@ name: hep
 heading: Ways to help
 subheading: 
 ---
-
 # Donate to humanitarian causes
 [<button class='btn btn-lg' style='background-color: #ffd700'>Red Cross in Ukraine</button>](https://www.icrc.org/en/donate/ukraine)
 [<button class='btn btn-lg' style='background-color: #ffd700'>UNICEF in Ukraine</button>](https://www.unicef.org.uk/donate/donate-now-to-protect-children-in-ukraine)
