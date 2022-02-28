@@ -1,7 +1,7 @@
 title: Nashville stands with Ukraine
 description: Support Ukraine in the ongoing Russian invasion
 sitename: NashvilleWithUkraine
-baseurl: '/nashvilleWithukraine'
+# baseurl: '/nashvilleWithukraine'
 sass:
   sass_dir: /assets/_sass
   style: :compressed
