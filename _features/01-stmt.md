@@ -20,7 +20,7 @@ We need money and supplies; we need red tape lifted to quickly and effectively s
 
 <hr>
 
-We are hereby calling on the Vanderbilt administration to acknowledge the ongoing war and condemn Russia's actions. The current official language from the university leadership refers to this bloody conflict as a
+We are hereby calling on the Vanderbilt administration to acknowledge the ongoing war and condemn Russia's actions. The current statement from the university leadership refers to this bloody conflict as a
 ["situation"](https://news.vanderbilt.edu/2022/02/25/statement-from-chancellor-diermeier-on-events-in-ukraine-university-resources-available).
 
 <br>
