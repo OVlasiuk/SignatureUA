@@ -1,7 +1,7 @@
 ---
 id: statement
 name: statement
-heading: Nashville communities express support to Ukraine
+heading: Nashville communities express support for Ukraine
 subheading: 
 ---
 
