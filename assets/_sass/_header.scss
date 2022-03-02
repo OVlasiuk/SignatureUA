@@ -43,6 +43,11 @@ header {
     h2 { font-size: 30px; }
   }
 
+  //arrow
+  .arrowplace{
+      position:relative;
+      bottom:0;
+  }
 $ani-speed: 2s;
 $ani-delay: 1s;
 
