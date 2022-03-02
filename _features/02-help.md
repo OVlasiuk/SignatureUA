@@ -10,6 +10,10 @@ subheading:
 [<button class='btn btn-lg' style='background-color: #ffd700'>Doctors without borders</button>](https://donate.doctorswithoutborders.org/onetime.cfm)
 
 # Donate to Ukraine's armed forces 
+Large list of charities:
+
+[<button class='btn btn-lg' style='background-color: #ffd700'>Bank of Ukraine</button>](https://standforukraine.com/)
+
 MoD of Ukraine:
 
 [<button class='btn btn-lg' style='background-color: #ffd700'>Bank of Ukraine</button>](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi)
@@ -17,7 +21,7 @@ MoD of Ukraine:
 
 Tactical and veteran aid charity:
 
-[<button class='btn btn-lg' style='background-color: #ffd700'>Come back alive</button>](https://savelife.in.ua/en/donate)
+[<button class='btn btn-lg' style='background-color: #ffd700'>Come back alive</button>](https://www.comebackalive.in.ua/)
 
 Donate in cryptocurrency:
 
