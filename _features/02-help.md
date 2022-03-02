@@ -27,5 +27,6 @@ Online news portals:
 Official sources:
 [<button class='btn btn-lg' style='background-color: #ffd700'>President of Ukraine on Twitter</button>](https://twitter.com/ZelenskyyUa)
 [<button class='btn btn-lg' style='background-color: #ffd700'>Ukrainian Parliament on Telegram </button>](https://t.me/verkhovnaradaofukraine)
+[<button class='btn btn-lg' style='background-color: #ffd700'>Official MFA page on the war </button>](https://war.ukraine.ua/)
 [<button class='btn btn-lg' style='background-color: #ffd700'>Ukrainian MFA on Twitter </button>](https://twitter.com/MFA_Ukraine)
 
