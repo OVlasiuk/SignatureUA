@@ -12,7 +12,7 @@ subheading:
 # Donate to Ukraine's armed forces 
 Large list of charities:
 
-[<button class='btn btn-lg' style='background-color: #ffd700'>Bank of Ukraine</button>](https://standforukraine.com/)
+[<button class='btn btn-lg' style='background-color: #ffd700'>Stand for Ukraine</button>](https://standforukraine.com/)
 
 MoD of Ukraine:
 
