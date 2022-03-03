@@ -20,5 +20,6 @@ subheading:
 <tr> <td>1</td> <td markdown="span">Hanna Terletska</td> <td markdown="span">Assistant Professor, Middle Tennessee State University</td> </tr>
 <tr> <td>2</td> <td markdown="span">Bogdan Chornomaz</td> <td markdown="span">Vanderbilt University</td> </tr>
 <tr> <td>3</td> <td markdown="span">Alexander Astafyev</td> <td markdown="span">HCA Healthcare</td> </tr>
+<tr> <td>4</td> <td markdown="span">Darya Huddleston </td> <td markdown="span">Nashville community</td> </tr>
 </tbody>
 </table>
