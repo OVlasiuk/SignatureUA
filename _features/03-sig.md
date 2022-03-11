@@ -21,5 +21,8 @@ subheading:
 <tr> <td>2</td> <td markdown="span">Bogdan Chornomaz</td> <td markdown="span">Vanderbilt University</td> </tr>
 <tr> <td>3</td> <td markdown="span">Alexander Astafyev</td> <td markdown="span">HCA Healthcare</td> </tr>
 <tr> <td>4</td> <td markdown="span">Darya Huddleston </td> <td markdown="span">Nashville community</td> </tr>
+<tr> <td>5</td> <td markdown="span">Anna Markova </td> <td markdown="span">Nashville community</td> </tr>
+<tr> <td>6</td> <td markdown="span">Roman Lazarenko </td> <td markdown="span">VUMC</td> </tr>
+<tr> <td>7</td> <td markdown="span">Richard Bugan </td> <td markdown="span">Nashville community</td> </tr>
 </tbody>
 </table>
